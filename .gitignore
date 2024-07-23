@@ -1,3 +1,5 @@
 .venv
 citus-db-data
 citus-healthcheck
+dbt-profiles
+my_project
